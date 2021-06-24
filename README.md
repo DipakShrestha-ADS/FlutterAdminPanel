@@ -1,2 +1,2 @@
-# WePlay Admin
+# Flutter Admin Panel
 
