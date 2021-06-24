@@ -1,0 +1,6 @@
+package com.weplay.weplay_admin
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
